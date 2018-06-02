@@ -204,6 +204,8 @@ Franz Ferdinand - Take Me Out
 Fuel - Hemorrhage
 Fuel - Shimmer
 Ghost - Cirice
+Ghost - Dance Macabre
+Ghost - Faith
 Ghost - From The Pinnacle To The Pit
 Ghost - Rats
 Ghost - Square Hammer
@@ -259,6 +261,7 @@ Halestorm - It's Not You
 Halestorm - Love Bites
 Halestorm - Mayhem
 Halestorm - Mz. Hyde
+Halestorm - Uncomfortable
 Halestorm - You Call Me A Bitch Like It's A Bad Thing
 Harvey Danger - Flagpole Sitta'
 Heart - Barracuda
