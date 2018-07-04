@@ -340,9 +340,6 @@ Linkin Park - One Step Closer
 Linkin Park - Somewhere I Belong
 Linkin Park - What I've Done
 Lit - Miserable
-Lit - Miserable
-Lit - Miserable
-Lit - Miserable
 Lit - My Own Worst Enemy
 Living Colour - Cult Of Personality
 Local H - Bound For The Floor
@@ -738,9 +735,9 @@ Tool - The Pot
 Trapt - Headstrong
 Trivium - Strife
 Trivium - Until The World Goes Cold
-Twent - ne Pilots - Heathens
-Twent - ne Pilots - Heavy Dirty Soul
-Twent - ne Pilots - Stressed Out
+Twenty One Pilots - Heathens
+Twenty One Pilots - Heavy Dirty Soul
+Twenty One Pilots - Stressed Out
 U2 - Vertigo
 Velvet Revolver - Slither
 Volbeat - A Warrior's Call
