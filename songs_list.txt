@@ -33,7 +33,7 @@ Alestorm - Shipwrecked
 Alice In Chains - Man in the Box
 Alice In Chains - Rooster
 Alice In Chains - Stone
-Alien Ant Farm - Smooth Criminal (Cover)
+Alien Ant Farm - Smooth Criminal
 All That Remains - Two Weeks
 Alter Bridge - Addicted to Pain
 Arctic Monkeys - R U Mine?
@@ -63,13 +63,13 @@ Avenged Sevenfold - The Stage
 Avenged Sevenfold - This Means War
 Avenged Sevenfold - Unholy Confessions
 Avenged Sevenfold - Welcome To The Family
-Bad Wolves - Zombie (Cover)
+Bad Wolves - Zombie 
 Beastie Boys - (You Gotta) Fight For Your Right (To Party)
 Beastie Boys - Intergalactic
 Beastie Boys - No Sleep Till Brooklyn
 Beastie Boys - Sabotage
 Black Stone Cherry - Blame It On The Boom Boom
-Black Stone Cherry - Mississpi Queen (Cover)
+Black Stone Cherry - Mississpi Queen
 Black Stone Cherry - White Trash Millionaire
 Bleeker - Highway
 Blink 182 - Adam's Song
@@ -136,7 +136,7 @@ Chevelle - The Red
 Chevelle - Tug Of War
 Chevelle - Vitamin R
 Chris Cornell / Zac Brown Band - Heavy Is The Head
-Corey Taylor (Solo) - Rainbow In The Dark (Cover)
+Corey Taylor (Solo) - Rainbow In The Dark
 Cracker - Low
 Danzig - Mother
 Deep Purple - Highway Star
@@ -151,9 +151,9 @@ Disturbed - Down With The Sickness
 Disturbed - I'm Alive
 Disturbed - Indestructible
 Disturbed - Inside The Fire
-Disturbed - Land Of Confusion (Cover)
+Disturbed - Land Of Confusion
 Disturbed - Prayer
-Disturbed - Still Haven't Found What I'm Looking For (Cover)
+Disturbed - Still Haven't Found What I'm Looking For
 Disturbed - Stricken
 Disturbed - Stupify
 Disturbed - The Animal
@@ -180,12 +180,12 @@ Fall Out Boy - Thnks Fr Th Mmrs
 Filter - Hey Man, Nice Shot
 Finger Eleven - Paralyzer
 Five Finger Death Punch - American Capitalist
-Five Finger Death Punch - Bad Company (Cover)
+Five Finger Death Punch - Bad Company
 Five Finger Death Punch - Blue On Black
 Five Finger Death Punch - Burn MF
 Five Finger Death Punch - Coming Down
 Five Finger Death Punch - Cradle To The Grave
-Five Finger Death Punch - Gone Away (Cover)
+Five Finger Death Punch - Gone Away
 Five Finger Death Punch - Hard To See
 Five Finger Death Punch - Jekyll And Hyde
 Five Finger Death Punch - Lift Me Up
@@ -237,7 +237,7 @@ Godsmack - I Stand Alone
 Godsmack - Keep Away
 Godsmack - Love-Hate-Sex-Pain
 Godsmack - No Rest For The Wicked
-Godsmack - Rocky Mountain Way (Cover)
+Godsmack - Rocky Mountain Way
 Godsmack - Say My Name
 Godsmack - Something Different
 Godsmack - Speak
@@ -312,7 +312,7 @@ Jane's Addiction - Mountain Song
 Jet - Are You Gonna Be My Girl
 Jet - Cold Hard Bitch
 Jimmy Eat World - The Middle
-Killswitch Engage - Holy Diver (Cover)
+Killswitch Engage - Holy Diver
 Kings Of Leon - Sex On Fire
 Korn - Black Is The Soul
 Korn - Coming Undone
@@ -402,8 +402,8 @@ Nothing More - Salem
 Nothing More - Who We Are
 Oasis - Wonderwall
 Of Mice & Men - Would You Still Be There
-Our Last Night - Radioactive (Cover)
-Our Last Night - Skyfall (Cover)
+Our Last Night - Radioactive
+Our Last Night - Skyfall
 Ozzy Osbourne - War Pigs
 Pantera - Cemetary Gates
 Pantera - Walk
@@ -447,7 +447,7 @@ Puddle of Mudd - Blurry
 Puddle of Mudd - Control
 Puddle of Mudd - Drift And Die
 Puddle of Mudd - Famous
-Puddle of Mudd - Gimme Shelter (Cover)
+Puddle of Mudd - Gimme Shelter
 Puddle of Mudd - Psycho
 Puddle of Mudd - Spaceship
 Puddle of Mudd - Stoned
@@ -465,7 +465,7 @@ Rage Against The Machine - Renegades Of Funk
 Rage Against The Machine - Sleep Now In The Fire
 Rage Against The Machine - Take The Power Back
 Rage Against The Machine - Testify
-Rage Against The Machine - The Ghost Of Tom Joad (Cover)
+Rage Against The Machine - The Ghost Of Tom Joad
 Red Hot Chili Peppers - Aeroplane
 Red Hot Chili Peppers - Around The World
 Red Hot Chili Peppers - By The Way
@@ -495,7 +495,7 @@ Rise Against - Satellite
 Rise Against - Savior
 Rise Against - The Good Left Undone
 Rise Against - The Violence
-Rob Zombie - American Band (Cover)
+Rob Zombie - American Band
 Rob Zombie - Dead Radio
 Rob Zombie - Dragula
 Rob Zombie - Living Dead Girl
@@ -596,7 +596,7 @@ Soundgarden - Black Hole Sun
 Soundgarden - Fell On Black Days
 Soundgarden - Outshined
 Soundgarden - Pretty Noose
-Soundgarden - Rusty Cage (Cover)
+Soundgarden - Rusty Cage
 Soundgarden - Spoonman
 Spacehog - In The Meantime
 Staind - For You
@@ -608,7 +608,7 @@ Starset - Carnivore
 Starset - Monster
 Starset - My Demons
 Stone Sour - Absolute Zero
-Stone Sour - Creeping Death (Cover)
+Stone Sour - Creeping Death
 Stone Sour - Gone Sovereign
 Stone Sour - Say You'll Haunt Me
 Stone Sour - Song #3
@@ -644,7 +644,7 @@ Tenacious D - The Metal
 The All American Rejects - Move Along
 The Apocalypse Blues Revue - Devil Plays A Strat
 The Apocalypse Blues Revue - Hell To Pay
-The Ataris - The Boys Of Summer (Cover)
+The Ataris - The Boys Of Summer
 The Cranberries - Zombie
 The Killers - Mr. Brightside
 The Killers - Somebody Told Me
@@ -718,7 +718,7 @@ Three Days Grace - Riot
 Three Days Grace - The Good Life
 Three Days Grace - The High Road
 Three Days Grace - The Mountain
-Three Days Grace - You Dont Get Me High Anymore (Cover)
+Three Days Grace - You Dont Get Me High Anymore
 Toadies - Possum Kingdom
 Tool - Aenema
 Tool - Forty Six And Two
