@@ -23,8 +23,8 @@ AC/DC - Rock And Roll (Ain't Noise Pollution)
 AC/DC - Rock N' Roll Train
 AC/DC - Shoot To Thrill
 AC/DC - Shot Down In Flames
-AC/DC - Thunderstruck
 AC/DC - TNT
+AC/DC - Thunderstruck
 AC/DC - Touch Too Much
 AC/DC - Whole Lotta' Rosie
 AC/DC - You Shook Me All Night Long
@@ -127,8 +127,8 @@ Breaking Benjamin - Sooner Or Later
 Breaking Benjamin - Topless
 Breaking Benjamin - Until The End
 Bring Me The Horizon - Happy Song
-Bring Me the Horizon - Mantra
 Bring Me The Horizon - Throne
+Bring Me the Horizon - Mantra
 Buckcherry - Crazy Bitch
 Buckcherry - Lit Up
 Bullet For My Valentine - Hearts Burst Into Fire
@@ -418,6 +418,17 @@ Muse - Reapers (Drones)
 Muse - Supermassive Black Hole
 My Chemical Romance - Teenagers
 Mötley Crüe - Kickstart My Heart
+NOFX - Dinsoaurs Will Die
+NOFX - Don't Call Me White
+NOFX - Franco Un-American
+NOFX - I Gotta Pee
+NOFX - Idiots Are Taking Over
+NOFX - It's My Job To Keep Punk Rock Elite
+NOFX - Linoleum
+NOFX - Party Enema
+NOFX - Soul Doubt
+NOFX - Stickin In My Eye
+NOFX - The Separation Of Church And Skate
 Nickelback - How You Remind Me
 Nine Inch Nails - Closer
 Nine Inch Nails - The Hand That Feeds
@@ -430,17 +441,6 @@ Nirvana - Heart Shaped Box
 Nirvana - In Bloom
 Nirvana - Rape Me
 Nirvana - Smells Like Teen Spirit
-NOFX - Dinsoaurs Will Die
-NOFX - Don't Call Me White
-NOFX - I Gotta Pee
-NOFX - It's My Job To Keep Punk Rock Elite
-NOFX - Idiots Are Taking Over
-NOFX - Franco Un-American
-NOFX - Linoleum
-NOFX - Party Enema
-NOFX - Soul Doubt
-NOFX - Stickin In My Eye
-NOFX - The Separation Of Church And Skate
 Nothing More - Ballast (This Is The Time)
 Nothing More - Christ Copyright
 Nothing More - Go To War
@@ -699,9 +699,9 @@ Stone Temple Pilots - Wicked Garden
 Sublime - Date Rape
 Sublime - Santeria
 Sublime - Wrong Way
-Sum 41 - God Save Us All
 Sum 41 - Fake My Own Death
 Sum 41 - Fatlip
+Sum 41 - God Save Us All
 Sum 41 - Handle This
 Sum 41 - In Too Deep
 Sum 41 - Motivation
@@ -717,6 +717,7 @@ System Of A Down - B.Y.O.B.
 System Of A Down - Chop Suey
 System Of A Down - Hypnotize
 System Of A Down - Toxicity
+Tenacious D - Master Exploder
 Tenacious D - The Metal
 The All American Rejects - Move Along
 The Apocalypse Blues Revue - Devil Plays A Strat
