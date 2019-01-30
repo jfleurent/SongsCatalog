@@ -413,10 +413,10 @@ Metallica - The Memory Remains
 Metallica - Wherever I May Roam
 Meytal - Everybody Hates You Now
 Millencolin - Hard Times
-Millencolin - Twenty Two
 Millencolin - No Cigar
 Millencolin - Penguins And Polar Bears
 Millencolin - Ray
+Millencolin - Twenty Two
 Modest Mouse - Float On
 Monster Magnet - Space Lord
 Monster Truck - Sweet Mountain River
@@ -850,6 +850,7 @@ Tool - Sober
 Tool - Stinkfist
 Tool - The Grudge
 Tool - The Pot
+Tool - Ticks And Leeches
 Trapt - Headstrong
 Trivium - Strife
 Trivium - Until The World Goes Cold
