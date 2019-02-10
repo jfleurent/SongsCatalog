@@ -704,7 +704,9 @@ Skillet - Feel Invincible
 Skillet - Hero
 Skillet - Monster
 Skindred - Kill The Power
+Skindred - Nobody
 Skindred - Rat Race
+Skindred - That's My Jam
 Slash - Apocalyptic Love
 Slash - Bent To Fly
 Slash - Driving Rain
