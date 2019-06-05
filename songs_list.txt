@@ -190,6 +190,7 @@ Disturbed - Another Way To Die
 Disturbed - Are You Ready
 Disturbed - Awaken
 Disturbed - Down With The Sickness
+Disturbed - Fear
 Disturbed - I'm Alive
 Disturbed - In Another Time
 Disturbed - Indestructible
@@ -340,6 +341,7 @@ Halestorm - I Get Off
 Halestorm - I Miss The Misery
 Halestorm - It's Not You
 Halestorm - Love Bites
+Halestorm - Love/Hate Heartbreak
 Halestorm - Mayhem
 Halestorm - Mz. Hyde
 Halestorm - Skulls
@@ -610,7 +612,9 @@ Red Sun Rising - Emotionless
 Red Sun Rising - The Otherside
 Rev Theory - Favorite Disease
 Rise Against - A Gentlemen's Coup
+Rise Against - Architects
 Rise Against - Audience Of One
+Rise Against - Behind Closed Doors
 Rise Against - Blood To Bleed
 Rise Against - Broken Mirrors
 Rise Against - Collapse
@@ -620,6 +624,7 @@ Rise Against - House On Fire
 Rise Against - I Don't Want To Be Here Anymore
 Rise Against - Injection
 Rise Against - Life Less Frightening
+Rise Against - Long Forgotten Sons
 Rise Against - Make It Stop
 Rise Against - Prayer Of The Refugee
 Rise Against - Re-education (Through Labor)
