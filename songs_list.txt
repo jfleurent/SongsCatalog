@@ -42,8 +42,8 @@ Alien Ant Farm - Smooth Criminal
 All That Remains - Two Weeks
 Alter Bridge - Addicted to Pain
 Alter Bridge - Metalingus
-Anti-Flag - The Press Corpse
-Anti-Flag - This Is The End
+Ant - lag - The Press Corpse
+Ant - lag - This Is The End
 Arctic Monkeys - R U Mine?
 Audioslave - Cochise
 Audioslave - Gasoline
@@ -80,7 +80,6 @@ Avenged Sevenfold - The Stage
 Avenged Sevenfold - This Means War
 Avenged Sevenfold - Unholy Confessions
 Avenged Sevenfold - Welcome To The Family
-BadFlower - Ghost
 Bad Religion - 21st Century Digital Boy
 Bad Religion - American Jesus
 Bad Religion - Automatic Man
@@ -103,6 +102,7 @@ Bad Religion - The Profane Rights Of Man
 Bad Religion - Two Babies In The Dark
 Bad Religion - You
 Bad Wolves - Zombie
+BadFlower - Ghost
 Beartooth - In Between
 Beastie Boys - (You Gotta) Fight For Your Right (To Party)
 Beastie Boys - Intergalactic
@@ -140,10 +140,10 @@ Breaking Benjamin - Failure
 Breaking Benjamin - Feed The Wolf
 Breaking Benjamin - Follow
 Breaking Benjamin - Give Me A Sign
-Breaking Benjamin - Into The Nothing
 Breaking Benjamin - Hollow
 Breaking Benjamin - Hopeless
 Breaking Benjamin - I Will Not Bow
+Breaking Benjamin - Into The Nothing
 Breaking Benjamin - Lights Out
 Breaking Benjamin - Polyamorous
 Breaking Benjamin - Red Cold River
@@ -344,10 +344,10 @@ Halestorm - Conflicted
 Halestorm - Do Not Disturb
 Halestorm - Don't Know How To Stop
 Halestorm - Freak Like Me
-Halestorm - Innocence
 Halestorm - I Am The Fire
 Halestorm - I Get Off
 Halestorm - I Miss The Misery
+Halestorm - Innocence
 Halestorm - It's Not You
 Halestorm - Love Bites
 Halestorm - Love/Hate Heartbreak
@@ -804,6 +804,7 @@ Staind - So Far Away
 Starset - Carnivore
 Starset - Monster
 Starset - My Demons
+Starset - Satellite
 Stone Sour - Absolute Zero
 Stone Sour - Bombtrack
 Stone Sour - Creeping Death
