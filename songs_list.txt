@@ -962,6 +962,7 @@ Tool - Stinkfist
 Tool - The Grudge
 Tool - The Pot
 Tool - Ticks And Leeches
+Tool - Vicarious
 Trapt - Headstrong
 Trivium - Strife
 Trivium - Until The World Goes Cold
