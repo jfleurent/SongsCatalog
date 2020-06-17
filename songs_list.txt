@@ -855,6 +855,7 @@ Starset - Carnivore
 Starset - Monster
 Starset - My Demons
 Starset - Satellite
+Starset - Trials
 Stone Sour - Absolute Zero
 Stone Sour - Bombtrack
 Stone Sour - Creeping Death
