@@ -476,7 +476,8 @@ Metallica - Dream No More
 Metallica - Enter Sandman
 Metallica - For Whom The Bell Tolls
 Metallica - Fuel
-Metallica - Hardwired (To Self Destruct)
+Metallica - Hardwired (To Self Dest
+uct)
 Metallica - Hit The Lights
 Metallica - King Nothing
 Metallica - Master Of Puppets
@@ -669,6 +670,7 @@ Red Hot Chili Peppers - Scar Tissue
 Red Hot Chili Peppers - Snow (Hey Oh)
 Red Hot Chili Peppers - Soul To Squeeze
 Red Hot Chili Peppers - Under The Bridge
+Red Jumpsuit Apparatus - Face Down
 Red Sun Rising - Deathwish
 Red Sun Rising - Emotionless
 Red Sun Rising - The Otherside
