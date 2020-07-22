@@ -7,6 +7,7 @@
 3 Doors Down - Kryptonite
 3 Doors Down - Lose
 3 Doors Down - When I'm Gone
+Aqua - Barbie Girl
 A Day To Remember - All Signs Point To Lauderdale
 A Perfect Circle - Blue
 A Perfect Circle - Judith
@@ -87,6 +88,7 @@ Avenged Sevenfold - The Stage
 Avenged Sevenfold - This Means War
 Avenged Sevenfold - Unholy Confessions
 Avenged Sevenfold - Welcome To The Family
+Baauer - Harlem Shake
 Bad Religion - 21st Century Digital Boy
 Bad Religion - Along The Way
 Bad Religion - American Jesus
@@ -840,6 +842,7 @@ Slipknot - Sulfur
 Slipknot - Surfacing
 Slipknot - Unsainted
 Slipknot - Wait And Bleed
+Smash Mouth - All Star
 Smashing Pumpkins - 1979
 Smashing Pumpkins - Bullet With Butterfly Wings
 Smashing Pumpkins - Cherub Rock
@@ -916,6 +919,7 @@ Taproot - Poem
 Tenacious D - Beelzeboss
 Tenacious D - Master Exploder
 Tenacious D - The Metal
+Tequila - The Champs
 The All American Rejects - Move Along
 The Apocalypse Blues Revue - Devil Plays A Strat
 The Apocalypse Blues Revue - Hell To Pay
@@ -1049,3 +1053,4 @@ White Zombie - More Human Than Human
 White Zombie - Thunderkiss '65
 Wolfmother - Joker And The Thief
 Yellowcard - Ocean Avenue
+Ylvis - The Fox (What Does The Fox Say?)
